@@ -817,7 +817,6 @@ dependencies = [
  "libc",
  "rand 0.8.4",
  "redox_syscall",
- "remove_dir_all",
  "winapi",
 ]
 
